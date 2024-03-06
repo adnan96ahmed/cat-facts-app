@@ -16,7 +16,7 @@ Running the App:
 Testing the App:
 
 1. cd into the folder containing the app
-2. run 'npm test'
+2. run 'npm test a'
 
 If I had more time, I would do the following:
 
