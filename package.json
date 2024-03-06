@@ -1,0 +1,25 @@
+{
+  "name": "cat-facts-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "axios": "^0.25.0",
+    "enzyme": "^3.11.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-test-renderer": "^17.0.1",
+    "react-router-dom": "^6.22.2",
+    "react-scripts": "1.1.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@wojtekmaj/enzyme-adapter-react-17": "^0.4.1"
+  }
+}
